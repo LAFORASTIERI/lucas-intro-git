@@ -1,0 +1,11 @@
+commit 650fe368aa06d5cd79e5cea3761092fed7ebeec4
+Author: Lucas Forastieri <forastierilucas@gmail.com>
+Date:   Mon Apr 1 17:28:43 2024 -0300
+
+    Cargando 2 oraciones acerca mio en Lucas.txt
+
+commit 5b43909e4724c8c0496125ba4f7197bb5e945854
+Author: Lucas Forastieri <forastierilucas@gmail.com>
+Date:   Mon Apr 1 17:25:54 2024 -0300
+
+    Primer commit del repositorio
